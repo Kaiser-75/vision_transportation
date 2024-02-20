@@ -4,7 +4,7 @@ Main objective of this repository is-
 3. Tracking pedestrian and traffic
 
 
-Application :
+Applications :
 1. Surrogate safety
 2. Traffic flow analysis
 3. Pedestrian safety
