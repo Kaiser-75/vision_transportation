@@ -1,12 +1,13 @@
 Main objective of this repository is-
-1. Detection of heterogeneous traffic
-2. Detection of pedestrian
-3. Tracking pedestrian and traffic.
+1. Detection of heterogeneous traffic in Bangladesh
+2. Detection of pedestrian in Bangladesh
+3. Tracking pedestrian and traffic
 
 
 Application :
 1. Surrogate safety
 2. Traffic flow analysis
+3. Pedestrian safety
 
 Please cite if you use our resources.
 
