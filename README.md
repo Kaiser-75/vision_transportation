@@ -7,7 +7,7 @@ Main objective of this repository is-
 Applications :
 1. Surrogate safety
 2. Traffic flow analysis
-3. Pedestrian safety
+
 
 Please cite if you use our resources.
 
